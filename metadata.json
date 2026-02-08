@@ -1,0 +1,7 @@
+{
+  "name": "Phil",
+  "description": "A peaceful, modern chat interface for exploring faith, theology, and sermon insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
